@@ -29,15 +29,11 @@ TODO: The fenced code block must designate that it contains Python source code
 TODO: Please do not pick the same fenced code blocks that you did for the last review
 TODO: The fenced code blocks that you provide should be from content covered during this module
 
-#### Provide the first Python function that you can write on your own without assistance
+#### Provide a Python function that you can write on your own without assistance from a prior examination
 
-#### Provide the second Python function that you can write on your own without assistance
+#### Provide a Python function that you can write on your own from content covered since the last examination
 
-#### Provide the third Python function that you can write on your own without assistance
-
-### Using a previously provided function, provide Python code to show how to call it
-
-TODO: You must use a fenced code block to provide the example of a call to a Python function
+#### Provide a Python function that you cannot write on your own and explain why that is the case
 
 ### Using a previously provided function, modify it to illustrate a defect and then explain why it is wrong
 
@@ -91,6 +87,9 @@ objective`.
 
 TODO: Retype the learning objective and the explain what work you need to
 complete so as to ensure that you can develop a mastery of the stated technical skill
+
+TODO: Provide a direct link to the segment that describes the learning objective in the
+course web site so that it is clear you have correctly described it in your own writing
 
 ## Review Checklist
 
