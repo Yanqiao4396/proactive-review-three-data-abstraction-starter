@@ -170,11 +170,11 @@ TODO: Please create a filled checkbox for the level that best describes your per
 
 ## Professional Reflection and Action
 
-### What is one way in which you think this course will be the same in five years? Why?
+### Assuming that the Department of Computer Science had unlimited resources and that the course instructor had unlimited time, what is one way to improve the course that would at least double your overall ability to learn computer science?
 
 TODO: Please answer this question with at least one paragraph consisting of at least three sentences
 
-### What is one way in which you think this course will be the different in five years? Why?
+### Bearing in mind that resources and time are inherently limited, customize your answer to the previous question so that it can be feasibly implemented for the upcoming academic semester
 
 TODO: Please answer this question with at least one paragraph consisting of at least three sentences
 
@@ -187,3 +187,11 @@ TODO: You may find a link to the issue tracker at the bottom of every page on
 the Proactive Programmers web site. For your reference, here is the direct link
 to the GitHub issue tracker for the web site:
 https://github.com/ProactiveProgrammers/www.proactiveprogrammers.com/issues
+
+TODO: Note as part of your completion of this question you need to create a new
+issue in the issue tracker for the Proactive Programmers web site. The course
+instructor will take into account all suggestions during and, as appropriate,
+make changes to the site in preparation for the upcoming semester.
+
+TODO: Make sure that you include a reference to the issue in the issue tracker
+that you created as a part of your response to this question.
