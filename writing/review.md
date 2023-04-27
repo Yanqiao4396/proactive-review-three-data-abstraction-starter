@@ -193,5 +193,5 @@ issue in the issue tracker for the Proactive Programmers web site. The course
 instructor will take into account all suggestions during and, as appropriate,
 make changes to the site in preparation for the upcoming semester.
 
-TODO: Make sure that you include a reference to the issue in the issue tracker
-that you created as a part of your response to this question.
+TODO: Make sure that you include a reference (as a URL) to the issue in the
+issue tracker that you created as a part of your response to this question.
