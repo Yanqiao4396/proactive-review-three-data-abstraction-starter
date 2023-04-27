@@ -54,7 +54,7 @@ structures](https://proactiveprogrammers.com/data-abstraction/learning-objective
 and then use the following instructions to complete the next questions.
 
 TODO: The learning objectives that you state and discuss should be different than the ones
-that you explained during the completion of the last proactive review assignment
+that you explained during the completion of the last two proactive review assignments
 
 ### Record three learning objectives for which you judge you can demonstrate mastery of the technical knowledge or skill
 
@@ -101,6 +101,7 @@ TODO: Please create a filled checkbox for each review task that you completed:
 - [] Reviewed and understood all of the technical content in the course slides
 - [] Completed all source code surveys, programming projects, and engineering efforts
 - [] Confirmed that you have a passing build in all of the aforementioned projects
+- [] Reviewed any available instructor feedback in each of the aforementioned projects
 - [] Answered all of the questions in the proactive review document
 
 TODO: If you have questions or concerns about content in this module that you
