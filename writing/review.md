@@ -112,6 +112,12 @@ could not resolve after completing the proactive review, you should take these s
 
 ## Professional Evaluation
 
+TODO: Please note that your responses to these questions will neither positively
+or negatively influence your grade in this course. You should answer these
+questions honestly so that the course instructor and the technical leaders can
+best ensure that they are delivering and will continue to deliver appropriate
+instruction in computer science.
+
 ### On a scale from 1 to 5, please respond to this assertion from your perspective: "I was challenged intellectually by the content and activities during this module"
 
 TODO: Please create a filled checkbox for the level that best describes your perspective
