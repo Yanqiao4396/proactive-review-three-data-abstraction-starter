@@ -4,23 +4,27 @@
       check: ConfirmFileExists
     - description: Complete all TODOs, remove the TODO markers, and rewrite comments for review.md
       check: MatchFileFragment
+      objective: TODO
       options:
         fragment: TODO
         count: 0
         exact: true
     - description: Delete the 'Add Your Name Here' prompt in the reflection file
       check: MatchFileFragment
+      objective: delete default
       options:
         fragment: "Add Your Name Here"
         count: 0
         exact: true
     - description: Write a minimum number of meaningful words in the reflection
       check: CountFileWords
+      objective: meet minimal
       options:
         count: 500
         exact: false
     - description: Confirm that the markdown file has a at least a minimum number of headers
       check: CountMarkdownTags
+      objective: meet minimal
       options:
         tag: heading
         count: 15
@@ -29,5 +33,6 @@
 # confirm a suitable number of commit messages
 - description: Have at least a specific minimum of commits in repository
   check: CountCommits
+  objective: reach minimal
   options:
     count: 5
